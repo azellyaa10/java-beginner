@@ -1,0 +1,38 @@
+
+0
+java:S1220""Move this file to a named package.
+\
+java:S1854"ARemove this useless assignment to local variable "binaryDecimal".(µÇ…Œüÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "hexadecimal".(èÜÃ¢ýÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "decimalInt".(·›ó¼øÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "iniDouble".(Æ²óŸùÿÿÿÿ
+R
+java:S1854
+"<Remove this useless assignment to local variable "iniFloat".(‰º½ë
+U
+java:S1854":Remove this useless assignment to local variable "iniInt".(Óœ„èþÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "iniShort".(æŠÿâÿÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "iniByte".(òˆžöúÿÿÿÿ
+G
+java:S1481",Remove this unused "iniByte" local variable.(òˆžöúÿÿÿÿ
+H
+java:S1481"-Remove this unused "iniShort" local variable.(æŠÿâÿÿÿÿÿ
+F
+java:S1481"+Remove this unused "iniInt" local variable.(Óœ„èþÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Øô¤†úÿÿÿÿ
+C
+java:S1481
+"-Remove this unused "iniFloat" local variable.(‰º½ë
+I
+java:S1481".Remove this unused "iniDouble" local variable.(Æ²óŸùÿÿÿÿ
+J
+java:S1481"/Remove this unused "decimalInt" local variable.(·›ó¼øÿÿÿÿ
+K
+java:S1481"0Remove this unused "hexadecimal" local variable.(èÜÃ¢ýÿÿÿÿ
+M
+java:S1481"2Remove this unused "binaryDecimal" local variable.(µÇ…Œüÿÿÿÿ

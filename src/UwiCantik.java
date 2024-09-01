@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class UwiCantik {
+public class UwiCantik {
+    public static void main(String[] args) {
+        System.out.println("UwiCantik");
+    }
 }

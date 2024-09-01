@@ -1,0 +1,14 @@
+
+0
+java:S1220""Move this file to a named package.
+P
+java:S1854"5Remove this useless assignment to local variable "c".(³Öüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(­ –
+E	java:S106	"+Replace this use of System.out by a logger.(ÿ’‘Îıÿÿÿÿ
+@	java:S106
+"+Replace this use of System.out by a logger.(áÌôÙ
+E	java:S106"+Replace this use of System.out by a logger.(˜ÿ¤ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(œîˆŠ
+E	java:S106"+Replace this use of System.out by a logger.(óûè«ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¯ô¢ô
+@	java:S106!"+Replace this use of System.out by a logger.(¯ô¢ô
